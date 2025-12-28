@@ -38,6 +38,21 @@
 - Purchasing patterns and SKU behavior
 #### The analysis is intentionally decision-oriented, prioritizing insights that can influence management actions rather than exhaustive statistical modeling.
 ---
+## Phases of Analysis
+#### Phase 1 – Business Problem Framing
+👉 Goal: Define objectives, scope, and align analysis with business goals.
+#### Phase 2 – Data Preparation & Quality Check (Pandas)
+👉 Goal: Ensure data is clean, accurate, and usable.
+#### Phase 3 – Descriptive Analytics (What happened?)
+👉 Goal: Summarize historical performance.
+#### Phase 4 – Diagnostic Analytics (Why it happened?)
+👉 Goal: Explain performance drivers and root causes.
+#### Phase 5 – Predictive Analytics (What will happen?)
+👉 Goal: Use models & historical data to forecast.
+#### Phase 6 – Prescriptive Analytics (What should we do?)
+👉 Goal: Recommend optimal actions.
+
+---
 ## Key Metrics & Dimensions
 #### The following core metrics and perspectives were used throughout the analysis:
 - Revenue contribution by supplier
