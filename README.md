@@ -134,7 +134,6 @@
 - Procurement and supply chain leaders
 - Finance and strategy teams
 - Consulting and advisory reviewers
-#### It is not designed as a tutorial, but as a demonstration of how data can be used to drive business decisions.
 ---
 ## How This Project Can Be Used
 - As a business diagnostic template for similar distribution or trading businesses
