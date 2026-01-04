@@ -81,6 +81,44 @@
 - Using data-driven diagnostics as a recurring management tool rather than a one-time exercise.
 #### Recommendations are framed to be practical, measurable, and executable within a real operating environment.
 ---
+## Sample Analytical Outputs (Illustrative)
+#### The following charts are selected examples of analytical outputs generated during the diagnostic.
+#### They are provided for illustration purposes only and represent derived outputs, not raw data or code.
+### Revenue Seasonality Heatmap
+![Revenue Seasonality Heatmap](outputs/charts/sales_in_quarters.jpg)
+
+### Supplier Concentration & Dependency Risk
+![Supplier Concentration](outputs/charts/Purchasing_Distribution_Top_5_Suppliers_vs_Others.jpg)
+
+### Customer Concentration (Pareto 80/20)
+![Customer Concentration](outputs/charts/top_customers_revenue.jpg)
+
+---
+## Full Analytical Outputs (No Code)
+#### A complete set of analytical tables, metrics, and charts supporting all findings is available in the outputs directory:
+
+### 📂 Full Analysis Outputs:
+👉 [Full Analysis.pdf](outputs/Summary%20Report/Full%20Analysis.pdf)
+
+#### This folder includes:
+
+- Supplier-level performance tables
+
+- Margin and profitability diagnostics
+
+- Concentration and dependency metrics
+
+- SKU-level performance views
+
+- Summary KPI tables used in executive decision-making
+---
+## Executive Story Deck (Final Deliverable)
+#### The final consulting-style executive presentation, synthesizing insights and recommendations into a management-ready narrative, is available below:
+
+### 📊 Executive Story Deck (PowerPoint):
+👉 [story_deck.pdf](story_deck/Business_Performance_Diagnostic.pdf)
+
+---
 ## Project Structure
 #### The repository is organized to clearly separate technical work from business storytelling:
 ##### ├── data/                 # Raw and processed datasets
