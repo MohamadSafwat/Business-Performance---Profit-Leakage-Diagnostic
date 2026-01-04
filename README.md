@@ -1,5 +1,5 @@
 # Business Performance & Profit Leakage Diagnostic
-### Pharmaceutical Distribution – Case Study
+### Pharmaceutical & Medical Consumables Distribution – Case Study
 ## Overview
 #### This project presents a business performance diagnostic conducted on a pharmaceutical and medical consumables distribution company operating in a highly volatile and margin-sensitive market environment.
 #### The objective of the analysis is to identify profit leakage, supplier dependency risks, and purchasing inefficiencies, and to translate data into clear, actionable recommendations that support better executive decision-making.
