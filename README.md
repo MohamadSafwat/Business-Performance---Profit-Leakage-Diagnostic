@@ -126,7 +126,6 @@
 ##### ├── outputs/              # Tables, charts, and derived metrics
 ##### ├── story_deck/           # Executive presentation (business findings & recommendations)
 ##### └── README.md             # Project overview and business context
-#### This structure reflects a consulting workflow, where technical analysis supports — but does not overshadow — decision-making.
 ---
 ## Intended Audience
 #### This project is relevant for:
